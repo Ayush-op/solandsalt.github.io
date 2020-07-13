@@ -1,0 +1,16 @@
+.gradient {
+  background: linear-gradient(120deg,#ff0000,#ff2a2a);
+}
+
+#s-row-two-one {
+  border-radius: 0%!important;
+}
+
+.rounded-circle {
+  border-radius: 0%!important;
+}
+
+#radius {
+  border-radius: 10px;
+}
+
